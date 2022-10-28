@@ -1,6 +1,6 @@
 [![@subumohanty's Holopin board](https://holopin.me/subumohanty)](https://holopin.io/@subumohanty)
 
-- 👋 Hi, I’m @subu-mohanty
+- 👋 Hi, I’m @subumohanty
 - 👀 I’m interested in Machine Learning and web development
 - 🌱 I’m currently learning Java
 - 📫 How to reach me mohantysubhasis16@gmail.com
