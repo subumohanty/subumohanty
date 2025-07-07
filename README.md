@@ -1,9 +1,18 @@
 [![@subumohanty's Holopin board](https://holopin.me/subumohanty)](https://holopin.io/@subumohanty)
 
-- 👋 Hi, I’m @subumohanty
-- 👀 I’m interested in Software Testing, Java Developer and  web development
-- 🌱 I’m currently learning Java
-- 📫 How to reach me mohantysubhasis16@gmail.com
+🎯 **Design & Process Excellence | Automation | Supply Chain Optimization**  
+Experienced professional with **1.6+ years** in **Supply Chain & Operations Analysis**, focused on driving innovation through automation and data-centric solutions.
+
+🚀 **What I Do:**  
+- Streamline complex workflows using **Python, Selenium, and SQL**  
+- Build reliable **automation solutions** to boost productivity  
+- Leverage **CI/CD practices** to enable scalable and efficient processes  
+- Transform operations through **data-driven decision-making**
+
+📬 **Let’s Connect**  
+📧 Email: [mohantysubhasis16@gmail.com](mailto:mohantysubhasis16@gmail.com)  
+🌐 LinkedIn: www.linkedin.com/in/subhasis16  
+🌟 Always open to learning, collaborating, and solving impactful problems!
 
 
 
